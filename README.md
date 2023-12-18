@@ -2,4 +2,4 @@
 
  This is a Website I created for an institute.
 
- [www.](http://source-of-knowledge.com/)Source Of Knowledge
+[Source Of knowledge](http://source-of-knowledge.com/)
